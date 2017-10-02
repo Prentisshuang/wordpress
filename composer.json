@@ -40,7 +40,8 @@
         "wordpress/wordpress": "4.7.*",
         "wpackagist-plugin/captcha":">=3.9",
         "wpackagist-theme/hueman":"*",
-        "wpackagist-plugin/secure-db-connection": "*"
+        "wpackagist-plugin/secure-db-connection": "*",
+        "wpackagist-plugin/a-better-wordpress-importexport": "*"
     },
     "extra": {
         "webroot-dir": "content",
